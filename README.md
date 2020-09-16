@@ -62,6 +62,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 ### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+sudo npm i -g firebase-tools
+firebase deploy
 
 ### `npm run build` fails to minify
 
