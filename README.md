@@ -1,4 +1,7 @@
+## Build a Facebook Clone with REACT JS for Beginners!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+[Example](https://facebook-clone-d0f04.web.app/)
 
 ## Available Scripts
 
@@ -62,8 +65,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 ### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-sudo npm i -g firebase-tools
-firebase deploy
+1. `sudo npm i -g firebase-tools`
+2. `firebase deploy`
 
 ### `npm run build` fails to minify
 
